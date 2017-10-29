@@ -2,6 +2,10 @@
 #include "Fatal.h"
 #include<iostream>
 
+/**
+ * Place in implementation file
+ * Stack implementation is a dynamically allocated array
+*/
 #define EmptyTOS -1  // if stack is empty, and its top postion is -1
 #define MinStackSize 5
 
